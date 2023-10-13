@@ -2,7 +2,7 @@
 
 📍 Cairo, Egypt
 
-📧 amahdy59@gmail.com | 📞 01020907116
+📧 amahdy59@gmail.com | 📞 01020907116 |  
 🌐 LinkedIn [linkedin.com/in/creativemahdy](https://linkedin.com/in/creativemahdy)
 
 ## 🌟 Summary
@@ -11,7 +11,7 @@ I'm a UX and instructional designer who loves creating user-friendly experiences
 ## 👔 Experience
 ### 🎨 User Experience Designer
 #### Schneider Electric
-*Jan 2023 - Present (10 months)*
+*Jan 2023 - Present*
 - Analyzing needs.
 - Storyboarding concepts.
 - Collaborating on experiences.
@@ -46,7 +46,7 @@ I'm a UX and instructional designer who loves creating user-friendly experiences
 ### 🏫 Information Technology Institute (ITI)
 *Diploma of Education, Educational/Instructional Technology*
 *Sep 2016 - Jun 2017*
-I got a diploma in eLearning Technologies from ITI. Proud to be part of this great place.
+I got a diploma in eLearning Technologies from ITI.
 
 ### 🎓 Minufiya University
 *Bachelor's degree, Radio and Television*
