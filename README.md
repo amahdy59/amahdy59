@@ -54,11 +54,11 @@ I got a diploma in eLearning Technologies from ITI. Proud to be part of this gre
 I studied Mass Communication, covering subjects like Journalism, Radio and television, and Video Editing. My studies equipped me to convey messages through various mediums effectively.
 
 ## 📜 Licenses & Certifications
-- [Build Your Skills as an Instructional Designer](https://example.com/certificate1)
-- [Creating Memorable Visual Presentations - Visme](https://example.com/certificate2)
-- [TechSmith Camtasia 2021 Voyager - TechSmith](https://example.com/certificate3)
-- [Web Development Fundamentals - Sololearn](https://example.com/certificate4)
-- [Google Foundations of User Experience (UX) Design - Google](https://example.com/certificate5)
+- [Build Your Skills as an Instructional Designer](https://www.linkedin.com/learning/certificates/c845bcd0539573f3ef19a5c98494b7e3e84babc02af6a9a73bc318b2974a3562?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BpW2R2rdHSX2fYAaEOUU3RA%3D%3D)
+- [Creating Memorable Visual Presentations - Visme](https://visme.co/courses/wp-content/themes/courses/certificates/visme-certificate-12924068-8.pdf)
+- [TechSmith Camtasia 2021 Voyager - TechSmith](https://verify.skilljar.com/c/beb23qowmhs2)
+- [Web Development Fundamentals - Sololearn](https://www.sololearn.com/certificates/CT-QDRTGXPB))
+- [Google Foundations of User Experience (UX) Design - Google](https://www.coursera.org/account/accomplishments/verify/88KAAH9J3HPR?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android))
 
 ## 🚀 Skills
 Wireframing • Customer Service • Figma • Technical Sales Support • Camtasia • Design Systems • User Experience Design (UED) • User Interface Design • Prototyping • Adobe XD
