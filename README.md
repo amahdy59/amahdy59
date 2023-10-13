@@ -59,7 +59,7 @@ I studied Mass Communication, covering subjects like Journalism, Radio and telev
 - [TechSmith Camtasia 2021 Voyager - TechSmith](https://verify.skilljar.com/c/beb23qowmhs2)
 - [Web Development Fundamentals - Sololearn](https://www.sololearn.com/certificates/CT-QDRTGXPB))
 - [Google Foundations of User Experience (UX) Design - Google](https://www.coursera.org/account/accomplishments/verify/88KAAH9J3HPR?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android))
-- <a href="[http://example.com/](https://www.coursera.org/account/accomplishments/verify/88KAAH9J3HPR?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android" target="_blank">Google Foundations of User Experience (UX) Design - Google</a>
+
 
 ## 🚀 Skills
 Wireframing • Customer Service • Figma • Technical Sales Support • Camtasia • Design Systems • User Experience Design (UED) • User Interface Design • Prototyping • Adobe XD
