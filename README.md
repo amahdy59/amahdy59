@@ -2,7 +2,7 @@
 
 📍 Cairo, Egypt
 
-[📧 amahdy59@gmail.com](mailto:amahdy59@gmail.com) | [📞 01020907116](tel:+201020907116) | 🌐 [LinkedIn](https://linkedin.com/in/creativemahdy)
+[📧 amahdy59@gmail.com](mailto:amahdy59@gmail.com) |  🌐 [LinkedIn](https://linkedin.com/in/creativemahdy)
 
 ## 🌟 Summary
 I'm a UX and instructional designer who loves creating user-friendly experiences and staying current with tech trends. My interests also extend to computer networking, cybersecurity, and cloud computing.
