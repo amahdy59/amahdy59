@@ -16,11 +16,11 @@
 | [Sales Performance Dashboard](https://mavenshowcase.com/project/26891) | CRM sales dashboard in Google Sheets tracking quarterly team performance |
 
 ### UX Design
-
+https://cairoairport.netlify.app/
 | Project | Description |
 |---|---|
-| [Human Resources V2](https://hr-tool-v2-gamma.vercel.app/) | Responsive HR self-service app built with React, TypeScript & Tailwind CSS |
-| [Cairo Airport — Command Hub](https://dribbble.com/shots/27402016-Cairo-International-Airport-Command-Hub) | Smart airport monitoring platform with interactive dashboards and Digital Twin operations |
+| [Human Resources Tool](https://hr-tool-v2-gamma.vercel.app/) | Responsive HR self-service app built with React, TypeScript & Tailwind CSS |
+| [Cairo Airport — Command Hub](https://cairoairport.netlify.app/) | Smart airport monitoring platform with interactive dashboards and Digital Twin operations |
 
 ---
 
@@ -57,8 +57,8 @@
 
 ## Certifications
 
-- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/0OYUGNC1DRF5) — Coursera
-- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/JQPVYZ6VYF52) — Coursera
-- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/5XR5AHBP79KW) — Coursera
-- [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/DCL8H4YT5UWG) — Coursera
-- [Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/49PCMPYYGLJV) — Coursera
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/0OYUGNC1DRF5) 
+- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/JQPVYZ6VYF52) 
+- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/5XR5AHBP79KW) 
+- [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/DCL8H4YT5UWG) 
+- [Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/49PCMPYYGLJV)
