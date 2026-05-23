@@ -1,25 +1,31 @@
 # Ahmed Mahdy
 
-### UX Designer • Data Analyst • AI-Driven Product Thinker
-  
-Email: amahdy59@gmail.com  
-Portfolio: https://ahmedmahdy.netlify.app/  
-LinkedIn: https://linkedin.com/in/creativemahdy
----
-## 🚀 About Me
-UX Designer and Data Analyst passionate about building intuitive, data-driven digital experiences.
-Focused on:
-- 🎨 UX & Product Design
-- 📊 Data Visualization & Dashboards
-- 🤖 AI-Assisted Workflows
-- ⚡ Rapid Prototyping & Vibe Coding
-I combine UX thinking, analytics, accessibility, and AI-enhanced workflows to create scalable, user-centered products.
+UX Designer • Data Analyst • AI-Driven Product Thinker
+
+📍 Egypt  
+📧 amahdy59@gmail.com  
+🌐 [Portfolio](https://ahmedmahdy.netlify.app/)  
+💼 [LinkedIn](https://linkedin.com/in/creativemahdy)
 
 ---
-## 💼 Experience
+
+## About Me
+
+I design intuitive, data-driven digital experiences that combine UX thinking, analytics, accessibility, and AI-assisted workflows.
+
+My work focuses on:
+- UX & Product Design
+- Dashboard Design & Data Visualization
+- AI-Assisted Workflows
+- Rapid Prototyping & Vibe Coding
+- Enterprise & Operational Systems
+
+---
+
+## Experience
 
 ### Advansys ESC — UX Designer & Data Analyst
-Enterprise dashboards, operational tools, analytics, and AI-assisted workflows.
+Designing enterprise dashboards, operational tools, and AI-assisted workflows.
 
 ### Schneider Electric — UX Designer
 UX design, prototyping, usability improvements, and enterprise learning experiences.
@@ -28,78 +34,79 @@ UX design, prototyping, usability improvements, and enterprise learning experien
 E-learning experiences, interactive content, and digital learning systems.
 
 ---
-## 🛠️ Stack
-**Design**  
-Figma • Design Systems • Wireframing • Prototyping • Accessibility
-**Analytics**  
+
+## Tech Stack
+
+### Design
+Figma • Design Systems • Wireframing • Prototyping • Accessibility • Responsive Design
+
+### Analytics
 Power BI • Tableau • Excel • Power Query • DAX • SQL
-**AI & Development**  
+
+### AI & Development
 Prompt Engineering • AI Workflows • Vibe Coding • Python • Automation
 
 ---
-## 📌 Featured Projects
 
-### ✈️ Cairo International Airport – Command Hub
+## Featured Projects
+
+### Cairo International Airport — Command Hub
 Operational dashboard experience for airport monitoring and decision-making.
 
-🔗 [Cairo International Airport – Command Hub](https://dribbble.com/shots/27402016-Cairo-International-Airport-Command-Hub)
+🔗 [View Project](https://dribbble.com/shots/27402016-Cairo-International-Airport-Command-Hub)
 
 **Tools:** Power BI • Excel • Figma
 
 ---
 
-### 🧱 A Data-Driven LEGO Explorer
+### A Data-Driven LEGO Explorer
 Interactive LEGO analytics and storytelling dashboard.
 
-🔗 https://mavenshowcase.com/project/29528
+🔗 [View Project](https://mavenshowcase.com/project/24967)
 
 **Tools:** Tableau • Excel • Figma
 
 ---
 
-### 📈 Sales Performance Dashboard
+### Sales Performance Dashboard
 Sales and KPI dashboard for CRM and business tracking.
 
-🔗 https://mavenshowcase.com/project/29529
+🔗 [View Project](https://mavenshowcase.com/project/26891)
 
 **Tools:** Google Sheets • Dashboard Design
 
 ---
 
-### 👥 Human Resources V2
-Responsive HR self-service platform and workflow experience.
+### Human Resources V2
+Responsive HR self-service platform focused on workflow simplification and usability.
 
-🔗 https://hr-tool-v2-gamma.vercel.app/
+🔗 [Live Demo](https://hr-tool-v2-gamma.vercel.app/)
 
 **Tools:** React • TypeScript • Tailwind CSS • Figma
 
 ---
 
-### 🧩 People Tool Redesign
-Redesign concept for improving HR workflows and usability.
+### People Tool Redesign
+Redesign concept focused on improving HR workflows and user experience clarity.
 
-🔗 https://oculus-paste-25250067.figma.site/
+🔗 [View Prototype](https://oculus-paste-25250067.figma.site/)
 
 **Tools:** Figma • UX Design
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- Google Data Analytics Professional Certificate  
-- Google UX Design Professional Certificate  
-- Tableau Business Intelligence Analyst  
-- Excel Skills for Business  
-- Excel for Data Analytics & Visualization  
-- Robotic Process Automation (RPA)
-
-More certifications available on my portfolio:  
-🔗 https://ahmedmahdy.netlify.app/
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0OYUGNC1DRF5)
+- [Google UX Design Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JQPVYZ6VYF52)
+- [Excel Skills for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/5XR5AHBP79KW)
+- [Excel for Data Analytics and Visualization Specialization](https://www.coursera.org/account/accomplishments/specialization/DCL8H4YT5UWG)
+- [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/49PCMPYYGLJV)
 
 ---
 
-## 📫 Connect
+## Connect
 
-💼 LinkedIn: https://linkedin.com/in/creativemahdy  
-🌐 Portfolio: https://ahmedmahdy.netlify.app/  
-📧 Email: amahdy59@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/creativemahdy)  
+🌐 [Portfolio](https://ahmedmahdy.netlify.app/)  
+📧 amahdy59@gmail.com
