@@ -2,7 +2,7 @@
 
 **UX Designer & Data Analyst** with 8+ years of experience turning user and business needs into decision-ready dashboards and user-centered digital experiences. Skilled in user research, information architecture, data storytelling, and accessible interface design.
 
-📧 [amahdy59@gmail.com](mailto:amahdy59@gmail.com) · 💼 [linkedin.com/in/creativemahdy](https://www.linkedin.com/in/creativemahdy) · 🎨 [dribbble.com/creativemahdy](https://dribbble.com/creativemahdy)
+📧 [amahdy59@gmail.com](mailto:amahdy59@gmail.com) · 💼 [linkedin.com/in/creativemahdy](https://www.linkedin.com/in/creativemahdy) · 🎨 [dribbble.com/creativemahdy](https://mahdy-resume.vercel.app/)
 
 ---
 
