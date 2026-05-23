@@ -1,28 +1,21 @@
-# 👋 Ahmed Mahdy
+# Ahmed Mahdy
 
 ### UX Designer • Data Analyst • AI-Driven Product Thinker
-
-📍 Egypt  
-📧 amahdy59@gmail.com  
-🌐 Portfolio: https://ahmedmahdy.netlify.app/  
-💼 LinkedIn: https://linkedin.com/in/creativemahdy
-
+  
+Email: amahdy59@gmail.com  
+Portfolio: https://ahmedmahdy.netlify.app/  
+LinkedIn: https://linkedin.com/in/creativemahdy
 ---
-
 ## 🚀 About Me
-
 UX Designer and Data Analyst passionate about building intuitive, data-driven digital experiences.
-
 Focused on:
 - 🎨 UX & Product Design
 - 📊 Data Visualization & Dashboards
 - 🤖 AI-Assisted Workflows
 - ⚡ Rapid Prototyping & Vibe Coding
-
 I combine UX thinking, analytics, accessibility, and AI-enhanced workflows to create scalable, user-centered products.
 
 ---
-
 ## 💼 Experience
 
 ### Advansys ESC — UX Designer & Data Analyst
@@ -35,26 +28,21 @@ UX design, prototyping, usability improvements, and enterprise learning experien
 E-learning experiences, interactive content, and digital learning systems.
 
 ---
-
 ## 🛠️ Stack
-
 **Design**  
 Figma • Design Systems • Wireframing • Prototyping • Accessibility
-
 **Analytics**  
 Power BI • Tableau • Excel • Power Query • DAX • SQL
-
 **AI & Development**  
 Prompt Engineering • AI Workflows • Vibe Coding • Python • Automation
 
 ---
-
 ## 📌 Featured Projects
 
 ### ✈️ Cairo International Airport – Command Hub
 Operational dashboard experience for airport monitoring and decision-making.
 
-🔗 https://dribbble.com/shots/26066923-Cairo-International-Airport-Command-Hub
+🔗 [Cairo International Airport – Command Hub](https://dribbble.com/shots/27402016-Cairo-International-Airport-Command-Hub)
 
 **Tools:** Power BI • Excel • Figma
 
