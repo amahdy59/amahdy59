@@ -2,7 +2,6 @@
 
 UX Designer • Data Analyst • AI-Driven Product Thinker
 
-📍 Egypt  
 📧 amahdy59@gmail.com  
 🌐 [Portfolio](https://ahmedmahdy.netlify.app/)  
 💼 [LinkedIn](https://linkedin.com/in/creativemahdy)
