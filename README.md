@@ -5,62 +5,54 @@
 📍 Egypt  
 📧 amahdy59@gmail.com  
 🌐 Portfolio: https://ahmedmahdy.netlify.app/  
-💼 LinkedIn: https://linkedin.com/in/creativemahdy  
+💼 LinkedIn: https://linkedin.com/in/creativemahdy
 
 ---
 
 ## 🚀 About Me
 
-UX Designer and Data Analyst focused on building intuitive, data-driven digital experiences.
+UX Designer and Data Analyst passionate about building intuitive, data-driven digital experiences.
 
-I work across:
+Focused on:
 - 🎨 UX & Product Design
-- 📊 Dashboards & Data Visualization
+- 📊 Data Visualization & Dashboards
 - 🤖 AI-Assisted Workflows
 - ⚡ Rapid Prototyping & Vibe Coding
 
-My background combines UX thinking, analytics, accessibility, and AI-enhanced workflows to create scalable and user-centered products.
+I combine UX thinking, analytics, accessibility, and AI-enhanced workflows to create scalable, user-centered products.
 
 ---
 
 ## 💼 Experience
 
-### 🎨 UX Designer & Data Analyst — Advansys ESC
-- Enterprise dashboards & operational tools
-- Data storytelling & visualization
-- UX workflows for complex systems
-- AI-assisted ideation & prototyping
+### Advansys ESC — UX Designer & Data Analyst
+Enterprise dashboards, operational tools, analytics, and AI-assisted workflows.
 
-### 🎨 UX Designer — Schneider Electric
-*2023 – Present*
-- UX design for enterprise and learning platforms
-- Wireframing, prototyping, and usability improvements
-- Cross-functional collaboration and interaction design
+### Schneider Electric — UX Designer
+UX design, prototyping, usability improvements, and enterprise learning experiences.
 
-### 📚 Instructional Designer — Schneider Electric
-*2018 – 2023*
-- E-learning experiences and interactive content
-- Digital learning design and supporting media
+### Schneider Electric — Instructional Designer
+E-learning experiences, interactive content, and digital learning systems.
 
 ---
 
 ## 🛠️ Stack
 
-### 🎨 Design
-Figma • Design Systems • Wireframing • Prototyping • UX Research • Accessibility • Responsive Design
+**Design**  
+Figma • Design Systems • Wireframing • Prototyping • Accessibility
 
-### 📊 Analytics
-Power BI • Tableau • Excel • Power Query • DAX • SQL • Data Storytelling
+**Analytics**  
+Power BI • Tableau • Excel • Power Query • DAX • SQL
 
-### 🤖 AI & Emerging Tech
-Prompt Engineering • AI Workflows • Vibe Coding • Automation • Python
+**AI & Development**  
+Prompt Engineering • AI Workflows • Vibe Coding • Python • Automation
 
 ---
 
 ## 📌 Featured Projects
 
 ### ✈️ Cairo International Airport – Command Hub
-Smart airport monitoring platform exploring operational dashboards, facility tracking, and Digital Twin experiences.
+Operational dashboard experience for airport monitoring and decision-making.
 
 🔗 https://dribbble.com/shots/26066923-Cairo-International-Airport-Command-Hub
 
@@ -69,7 +61,7 @@ Smart airport monitoring platform exploring operational dashboards, facility tra
 ---
 
 ### 🧱 A Data-Driven LEGO Explorer
-Interactive Tableau visualization experience for exploring LEGO sets by theme, age, price, and set count.
+Interactive LEGO analytics and storytelling dashboard.
 
 🔗 https://mavenshowcase.com/project/29528
 
@@ -78,7 +70,7 @@ Interactive Tableau visualization experience for exploring LEGO sets by theme, a
 ---
 
 ### 📈 Sales Performance Dashboard
-CRM sales dashboard designed in Google Sheets for quarterly sales tracking and KPI visualization.
+Sales and KPI dashboard for CRM and business tracking.
 
 🔗 https://mavenshowcase.com/project/29529
 
@@ -87,7 +79,7 @@ CRM sales dashboard designed in Google Sheets for quarterly sales tracking and K
 ---
 
 ### 👥 Human Resources V2
-Responsive HR self-service platform focused on leave requests, attendance, and role management.
+Responsive HR self-service platform and workflow experience.
 
 🔗 https://hr-tool-v2-gamma.vercel.app/
 
@@ -95,8 +87,8 @@ Responsive HR self-service platform focused on leave requests, attendance, and r
 
 ---
 
-### 🧩 People Tool (Figma Redesign)
-Redesigned internal HR platform with improved usability and workflow clarity.
+### 🧩 People Tool Redesign
+Redesign concept for improving HR workflows and usability.
 
 🔗 https://oculus-paste-25250067.figma.site/
 
@@ -106,16 +98,20 @@ Redesigned internal HR platform with improved usability and workflow clarity.
 
 ## 📜 Certifications
 
-- [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
-- [Tableau Business Intelligence Analyst](https://www.coursera.org/professional-certificates/business-intelligence)
-- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/specializations/excel-data-analytics-visualization)
-- [Excel Skills for Business](https://www.coursera.org/specializations/excel)
-- [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design)
+- Google Data Analytics Professional Certificate  
+- Google UX Design Professional Certificate  
+- Tableau Business Intelligence Analyst  
+- Excel Skills for Business  
+- Excel for Data Analytics & Visualization  
+- Robotic Process Automation (RPA)
+
+More certifications available on my portfolio:  
+🔗 https://ahmedmahdy.netlify.app/
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/creativemahdy
-- 🌐 Portfolio: https://ahmedmahdy.netlify.app/
-- 📧 Email: amahdy59@gmail.com
+💼 LinkedIn: https://linkedin.com/in/creativemahdy  
+🌐 Portfolio: https://ahmedmahdy.netlify.app/  
+📧 Email: amahdy59@gmail.com
