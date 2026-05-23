@@ -1,64 +1,121 @@
-# 👤 Ahmed Mahdy
+# 👋 Ahmed Mahdy
 
-📍 Cairo, Egypt
+### UX Designer • Data Analyst • AI-Driven Product Thinker
 
-[📧 amahdy59@gmail.com](mailto:amahdy59@gmail.com) |  🌐 [LinkedIn](https://linkedin.com/in/creativemahdy)
+📍 Egypt  
+📧 amahdy59@gmail.com  
+🌐 Portfolio: https://ahmedmahdy.netlify.app/  
+💼 LinkedIn: https://linkedin.com/in/creativemahdy  
 
-## 🌟 Summary
-I'm a UX and instructional designer who loves creating user-friendly experiences and staying current with tech trends. My interests also extend to computer networking, cybersecurity, and cloud computing.
+---
 
-## 👔 Experience
-### 🎨 User Experience Designer
-#### Schneider Electric
-*Jan 2023 - Present*
-- Analyzing needs.
-- Storyboarding concepts.
-- Collaborating on experiences.
-- Designing aesthetics.
-- Enhancing user experience.
+## 🚀 About Me
 
-### 📚 Instructional Designer
-#### Schneider Electric
-*Jul 2018 - Jan 2023 (4 years 7 months)*
-- Design e-learning activities.
-- Collaborate with SMEs.
-- Adapt courses for online delivery.
-- Develop supporting media.
+UX Designer and Data Analyst focused on building intuitive, data-driven digital experiences.
 
-### 🛒 Customer Service Specialist
-#### Amazon
-*Oct 2017 - Jan 2018 (4 months)*
-- Assist inquiries and orders.
-- Resolve issues effectively.
-- Manage accounts, and provide details.
-- Ensure exceptional shopping experiences.
+I work across:
+- 🎨 UX & Product Design
+- 📊 Dashboards & Data Visualization
+- 🤖 AI-Assisted Workflows
+- ⚡ Rapid Prototyping & Vibe Coding
 
-### 📞 Customer Service Representative
-#### Teleperformance
-*May 2015 - Jan 2016 (9 months)*
-- Assist customer inquiries.
-- Resolve issues, and offer solutions.
-- Manage accounts, and provide info.
-- Ensure positive experiences.
+My background combines UX thinking, analytics, accessibility, and AI-enhanced workflows to create scalable and user-centered products.
 
-## 📚 Education
-### 🏫 Information Technology Institute (ITI)
-*Diploma of Education, Educational/Instructional Technology*
-*Sep 2016 - Jun 2017*
-I got a diploma in eLearning Technologies from ITI.
+---
 
-### 🎓 Minufiya University
-*Bachelor's degree, Radio and Television*
-*2009 - 2013*
-I studied Mass Communication, covering subjects like Journalism, Radio and television, and Video Editing. My studies equipped me to convey messages through various mediums effectively.
+## 💼 Experience
 
-## 📜 Licenses & Certifications
-- [Build Your Skills as an Instructional Designer](https://www.linkedin.com/learning/certificates/c845bcd0539573f3ef19a5c98494b7e3e84babc02af6a9a73bc318b2974a3562?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BpW2R2rdHSX2fYAaEOUU3RA%3D%3D)
-- [Creating Memorable Visual Presentations - Visme](https://visme.co/courses/wp-content/themes/courses/certificates/visme-certificate-12924068-8.pdf)
-- [TechSmith Camtasia 2021 Voyager - TechSmith](https://verify.skilljar.com/c/beb23qowmhs2)
-- [Web Development Fundamentals - Sololearn](https://www.sololearn.com/certificates/CT-QDRTGXPB))
-- [Google Foundations of User Experience (UX) Design - Google](https://www.coursera.org/account/accomplishments/verify/88KAAH9J3HPR?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android))
+### 🎨 UX Designer & Data Analyst — Advansys ESC
+- Enterprise dashboards & operational tools
+- Data storytelling & visualization
+- UX workflows for complex systems
+- AI-assisted ideation & prototyping
 
+### 🎨 UX Designer — Schneider Electric
+*2023 – Present*
+- UX design for enterprise and learning platforms
+- Wireframing, prototyping, and usability improvements
+- Cross-functional collaboration and interaction design
 
-## 🚀 Skills
-Wireframing • Customer Service • Figma • Technical Sales Support • Camtasia • Design Systems • User Experience Design (UED) • User Interface Design • Prototyping • Adobe XD
+### 📚 Instructional Designer — Schneider Electric
+*2018 – 2023*
+- E-learning experiences and interactive content
+- Digital learning design and supporting media
+
+---
+
+## 🛠️ Stack
+
+### 🎨 Design
+Figma • Design Systems • Wireframing • Prototyping • UX Research • Accessibility • Responsive Design
+
+### 📊 Analytics
+Power BI • Tableau • Excel • Power Query • DAX • SQL • Data Storytelling
+
+### 🤖 AI & Emerging Tech
+Prompt Engineering • AI Workflows • Vibe Coding • Automation • Python
+
+---
+
+## 📌 Featured Projects
+
+### ✈️ Cairo International Airport – Command Hub
+Smart airport monitoring platform exploring operational dashboards, facility tracking, and Digital Twin experiences.
+
+🔗 https://dribbble.com/shots/26066923-Cairo-International-Airport-Command-Hub
+
+**Tools:** Power BI • Excel • Figma
+
+---
+
+### 🧱 A Data-Driven LEGO Explorer
+Interactive Tableau visualization experience for exploring LEGO sets by theme, age, price, and set count.
+
+🔗 https://mavenshowcase.com/project/29528
+
+**Tools:** Tableau • Excel • Figma
+
+---
+
+### 📈 Sales Performance Dashboard
+CRM sales dashboard designed in Google Sheets for quarterly sales tracking and KPI visualization.
+
+🔗 https://mavenshowcase.com/project/29529
+
+**Tools:** Google Sheets • Dashboard Design
+
+---
+
+### 👥 Human Resources V2
+Responsive HR self-service platform focused on leave requests, attendance, and role management.
+
+🔗 https://hr-tool-v2-gamma.vercel.app/
+
+**Tools:** React • TypeScript • Tailwind CSS • Figma
+
+---
+
+### 🧩 People Tool (Figma Redesign)
+Redesigned internal HR platform with improved usability and workflow clarity.
+
+🔗 https://oculus-paste-25250067.figma.site/
+
+**Tools:** Figma • UX Design
+
+---
+
+## 📜 Certifications
+
+- [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Tableau Business Intelligence Analyst](https://www.coursera.org/professional-certificates/business-intelligence)
+- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/specializations/excel-data-analytics-visualization)
+- [Excel Skills for Business](https://www.coursera.org/specializations/excel)
+- [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design)
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/creativemahdy
+- 🌐 Portfolio: https://ahmedmahdy.netlify.app/
+- 📧 Email: amahdy59@gmail.com
